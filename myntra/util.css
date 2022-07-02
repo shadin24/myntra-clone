@@ -1,0 +1,33 @@
+.flex{
+    display:flex;
+}
+.item-center{
+    align-items: center;
+
+}
+.justify-center{
+    justify-content: center;
+
+}
+.semibold{
+    font-weight: bo;
+}
+.space-between{
+    justify-content: space-between;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.search{
+    width: 25vw;
+    padding: 7px 14px;
+    background: #ebeef5;
+    border: 0.5px solid rgb(212, 210, 210);
+    border-radius: 5px;
+}
+
+.homeimg{
+    width: 80vw;
+    margin: 12px 0;
+}
